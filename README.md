@@ -15,6 +15,10 @@ An end-to-end Machine Learning project that predicts heart disease using Python,
 - Model evaluation using Accuracy, Precision, Recall, F1-score, and Confusion Matrix
 - Interactive Streamlit web application
 
+## 🚀 Live Demo
+
+Try the application here: [Heart Disease Prediction App](https://heart-disease-prediction-5dtdghqscx2yovrnngk2t.streamlit.app/)
+
 ## 🛠️ Technologies Used
 
 - Python
