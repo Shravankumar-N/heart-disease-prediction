@@ -77,7 +77,7 @@ The application will open in your browser.
 🔮 Future Improvements
 Improve model performance through cross-validation and tuning.
 Add model interpretability and visualizations.
-Deploy the application online.
+
 ⚠️ Disclaimer
 
 This project is for educational purposes only. It is not a medically validated diagnostic tool and must not be used for medical decisions.
